@@ -1,8 +1,9 @@
-package webService;
+package webService.controller;
 
 import org.junit.AfterClass;
 import org.junit.BeforeClass;
 import org.junit.Test;
+import webService.Application;
 
 import java.io.BufferedReader;
 import java.io.IOException;
