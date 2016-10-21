@@ -11,3 +11,5 @@ There is only one route:
   {
     "message": "Hello World!"
   }
+
+(Spanish) Blog [post](http://josemanueldeniz.es/Java-Implementar-un-WebService-con-Spark-y-despligue-en-heroku/)
